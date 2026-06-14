@@ -5,7 +5,7 @@
 # ============================================================
 
 def add(a, b):
-    return a + b
+    return a + b; # optimized
 
 def subtract(a, b):
     return a - b
