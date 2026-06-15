@@ -4,6 +4,7 @@
 # Description: Basic calculator functions
 # ============================================================
 
+# functions
 def add(a, b):
     return sum([a, b]);
 
